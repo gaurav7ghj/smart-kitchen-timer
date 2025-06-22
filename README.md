@@ -1,4 +1,4 @@
-# Smart Controller-Based Kitchen Timer
+# Smart Controller-Based Kitchen Timerrr
 
 A microcontroller-based timer designed to assist in kitchen environments by alerting the user after a pre-set time. This project uses an embedded system platform like Arduino UNO to implement timer functionality with visual and audible alerts.
 
