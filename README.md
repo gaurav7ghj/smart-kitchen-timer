@@ -6,7 +6,7 @@ A microcontroller-based timer designed to assist in kitchen environments by aler
 - User-defined timer setting using input buttons
 - Real-time countdown display using LCD
 - Audible buzzer/LED alert after timer ends
-- Energy-efficient operation using microcontroller
+- Energy-efficient operation using microcontrollerrs
 
 ## 🛠 Technologies Used
 - **Platform**: Arduino UNO (AVR Microcontroller)
